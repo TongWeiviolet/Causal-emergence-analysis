@@ -1,5 +1,5 @@
 # Causal-emergence-analysis
-This repository contains the codes for our paper, entitled "Dual-Valued Functions of Dual Matrices with Applications in Causal Emergence". Specifically, the dual-valued matrix Ky Fan p-k-norm is employed for causal emergence to reveal the underlying patterns and structural dependencies within complex systems.
+This repository contains the codes for our paper, entitled "Dual-Valued Functions of Dual Matrices with Applications in Causal Emergence" [2]. Specifically, the dual-valued matrix Ky Fan p-k-norm is employed for causal emergence to reveal the underlying patterns and structural dependencies within complex systems.
 
 ## Codes
 * [dualsvd.m](dualsvd.m) is the code for the optimal rank-k approximation of dual matrices under the quasi-metric d<sub>*</sub>. For more details, please refer to [1].
@@ -8,3 +8,4 @@ This repository contains the codes for our paper, entitled "Dual-Valued Function
 
 ## References
 [1] [Tong Wei](https://doi.org/10.1137/23M1556642), Weiyang Ding, and Yimin Wei, Singular Value Decomposition of Dual Matrices and Its Application to Traveling Wave Identification in the Brain, SIAM J. Matrix Anal. Appl., 45 (2024), pp. 634–660. 
+[2] [Tong Wei](https://arxiv.org/abs/2411.08377), Weiyang Ding and Yimin Wei, Dual-Valued Functions of Dual Matrices with Applications in Causal Emergence, (2024), arXiv:2411.08377. 
